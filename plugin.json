@@ -1,0 +1,5 @@
+{
+  "name": "claude-natural-docs",
+  "version": "1.0.0",
+  "description": "A Claude Code plugin that removes AI writing patterns from technical documents, making them read more naturally like human-written content."
+}
